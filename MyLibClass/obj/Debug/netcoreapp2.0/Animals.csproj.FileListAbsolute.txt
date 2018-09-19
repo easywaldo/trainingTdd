@@ -1,0 +1,9 @@
+D:\Study\MyLibClass\MyLibClass\bin\Debug\netcoreapp2.0\Animals.deps.json
+D:\Study\MyLibClass\MyLibClass\bin\Debug\netcoreapp2.0\Animals.dll
+D:\Study\MyLibClass\MyLibClass\bin\Debug\netcoreapp2.0\Animals.pdb
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\Animals.csproj.CoreCompileInputs.cache
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\Animals.AssemblyInfoInputs.cache
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\Animals.AssemblyInfo.cs
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\Animals.dll
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\Animals.pdb
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\Animals.csprojAssemblyReference.cache

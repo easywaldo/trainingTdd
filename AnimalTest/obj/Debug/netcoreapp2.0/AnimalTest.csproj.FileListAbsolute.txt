@@ -1,0 +1,17 @@
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\AnimalTest.deps.json
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\AnimalTest.runtimeconfig.json
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\AnimalTest.runtimeconfig.dev.json
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\AnimalTest.dll
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\AnimalTest.pdb
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.csprojAssemblyReference.cache
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.csproj.CoreCompileInputs.cache
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.AssemblyInfoInputs.cache
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.AssemblyInfo.cs
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.dll
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.pdb
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\Animals.dll
+D:\Study\MyLibClass\AnimalTest\bin\Debug\netcoreapp2.0\Animals.pdb
+D:\Study\MyLibClass\AnimalTest\obj\Debug\netcoreapp2.0\AnimalTest.csproj.CopyComplete

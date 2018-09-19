@@ -1,0 +1,6 @@
+D:\Study\MyLibClass\MyLibClass\bin\Debug\netcoreapp2.0\MyLibClass.deps.json
+D:\Study\MyLibClass\MyLibClass\bin\Debug\netcoreapp2.0\MyLibClass.dll
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\MyLibClass.csprojAssemblyReference.cache
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\MyLibClass.csproj.CoreCompileInputs.cache
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\MyLibClass.AssemblyInfoInputs.cache
+D:\Study\MyLibClass\MyLibClass\obj\Debug\netcoreapp2.0\MyLibClass.AssemblyInfo.cs
